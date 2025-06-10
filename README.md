@@ -5,9 +5,8 @@
 ---
 
 📍 I'm from **Gaya, Bihar** <br>
-🌍 I'm based in **Mohali, India**  
-⚛️ I love working with **MERN stack** and solving problems through **programming**  
-🚀 I've explored CSS libraries like **Tailwind CSS** and **styled-components** 
+⚛️ I enjoy working with **Core Java** and the **MERN stack**, and I'm passionate about solving problems through **programming**. 
+🚀 I've also explored modern CSS libraries like **Tailwind CSS** and **styled-components** to build responsive and elegant UIs. 
 
 ---
 
